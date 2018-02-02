@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<co.io.h>
+#include<conio.h>
 int main()
 {
 int i,fact=1,n;
