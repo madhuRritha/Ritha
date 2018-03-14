@@ -24,4 +24,3 @@ printf(" it is  a composite number\n");
 getch();
 return 0;    
 }
-© 2018 GitHub, Inc.
