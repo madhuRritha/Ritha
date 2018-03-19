@@ -2,9 +2,9 @@
 #include<conio.h>
 void main()
 {
-char n;
+char number;
 printf("Enter the Number:");
-scanf("%d",&n);
-printf("The Integer Character is %c",(n+64));
+scanf("%d",&number);
+printf("The Integer Character is %c",(number+64));
 getch();
 }
